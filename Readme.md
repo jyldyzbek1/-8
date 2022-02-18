@@ -1,3 +1,3 @@
 Deployed Link
 
-https://jyldyzbek1.github.io/Calculator/
+https://jyldyzbek1.github.io/Calculator/index.html
